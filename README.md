@@ -1,10 +1,9 @@
 # jenkins-docker-installation
-UPDATE - Jenkins Docker Container Installation using Docker-Compose and Dockerfile and initial Jenkins application setup.
+[Jenkins](https://www.jenkins.io/) application, built by [Dockerfile](https://docs.docker.com/engine/reference/builder/), provisioned via [Docker-Compose](https://docs.docker.com/compose/install/) and hosted within a [Docker](https://www.docker.com/) container.
 
 ## Architecture
-...
 
-ENTER IMAGE
+![image](https://user-images.githubusercontent.com/83971386/201360595-b5de5908-8329-45b2-9031-299b7bd9e89c.png)
 
 ## Prerequisites
 * Docker installation - [steps](https://docs.docker.com/engine/install/)
